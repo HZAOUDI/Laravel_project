@@ -23,7 +23,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation![6](https://github.com/HZAOUDI/Laravel_project/assets/125825033/487a4936-9cb8-42b6-b564-b0eb54e9677b)
+](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
@@ -64,10 +65,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
+
 ## Screenshot of the App :
 
 ![0](https://github.com/HZAOUDI/Laravel_project/assets/125825033/a401a57d-a868-4bc7-a392-24d28750922b)
 ![4](https://github.com/HZAOUDI/Laravel_project/assets/125825033/c1098307-f456-4e07-a1b7-e8fbca8cc0e8)
+![6](https://github.com/HZAOUDI/Laravel_project/assets/125825033/44c6bcd1-8269-463b-ba79-d3a10d609631)
 ![2](https://github.com/HZAOUDI/Laravel_project/assets/125825033/58266b47-35e9-40da-93f2-652dc363a3f7)
 ![5](https://github.com/HZAOUDI/Laravel_project/assets/125825033/122db5c5-5a87-437e-887e-198afe5bcfc9)
 ![1](https://github.com/HZAOUDI/Laravel_project/assets/125825033/d4eb666b-60f5-4400-bc02-c74d7807be06)
